@@ -6,4 +6,4 @@ Step 2: run prediction_model.py 训练RC，拟合Lorenz系统，将预测的结�
 
 
 参考文献:
-	○ Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach, PRL 2018 , [Video by Pathak](https://www.youtube.com/watch?v=Cfb2SMsCMb0)
+* Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach, PRL 2018 , [Video by Pathak](https://www.youtube.com/watch?v=Cfb2SMsCMb0)
